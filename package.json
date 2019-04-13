@@ -83,6 +83,12 @@
         "akamud.vscode-theme-onedark",
         "ms-vsliveshare.vsliveshare",
         "hollowtree.vue-snippets",
-        "sdras.vue-vscode-snippets"
+        "sdras.vue-vscode-snippets",
+        "redhat.vscode-yaml",
+        "be5invis.vscode-icontheme-nomo-dark",
+        "mikestead.dotenv",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "PeterJausovec.vscode-docker",
+        "redhat.fabric8-analytics"
     ]
 }
