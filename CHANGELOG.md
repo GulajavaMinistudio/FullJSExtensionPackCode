@@ -8,6 +8,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail
 
-## [0.5.0] - 2019-04-17
+## [0.6.0] - 2019-04-14
+
+- Added extension Gi, Jumpy, Multiple clipboards for VSCode, Carbon, Surround, TODO Highlight, TODO List, Todo+ .
+
+## [0.5.0] - 2019-04-13
 
 - Initial release
