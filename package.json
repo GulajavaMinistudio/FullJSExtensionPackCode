@@ -2,7 +2,7 @@
     "name": "javascript-complete-packs",
     "displayName": "Full JavaScript Complete Pack",
     "description": "All essential extension and theme that useful for web development with JavaScript in front end and back end.",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "publisher": "GulajavaMinistudio",
     "engines": {
         "vscode": "^1.33.0"
@@ -97,6 +97,14 @@
         "mikestead.dotenv",
         "ms-kubernetes-tools.vscode-kubernetes-tools",
         "PeterJausovec.vscode-docker",
-        "redhat.fabric8-analytics"
+        "redhat.fabric8-analytics",
+        "rubbersheep.gi",
+        "wmaurer.vscode-jumpy",
+        "slevesque.vscode-multiclip",
+        "yatki.vscode-surround",
+        "wayou.vscode-todo-highlight",
+        "TzachOvadia.todo-list",
+        "fabiospampinato.vscode-todo-plus",
+        "ericadamski.carbon-now-sh"
     ]
 }
