@@ -25,7 +25,7 @@ Here are some useful extension included in this packs :
 * [CSS Formatter](https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter) - Formatter for CSS.
 * [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
-* [Dependency Analytics](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) - Insights about your application dependencies: Security, License compatibility and AI based guidance to choose appropriate dependencies for your application.
+* [Dependency Analytics](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) - Insights about your application dependencies: Security, License compatibility and AI based guidance to choose appropriate dependencies for your application. (Removed from Pack because some Issues, see Changelog 0.6.1 version).
 * [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
 * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
