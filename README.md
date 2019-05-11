@@ -9,6 +9,8 @@ Here are some useful extension included in this packs :
 * [Angular Snippet by Dan Wahlin](https://marketplace.visualstudio.com/items?itemName=danwahlin.angular2-snippets) - VS Code snippets for Angular and TypeScript/HTML.
 * [Angular Snippet by Mikael Morlund](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - 240 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, ngRx, RxJS, PWA & Testing).
 * [Angular Snippet by John Papa](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - Angular v7 snippets by John Papa.
+* [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - Angular schematics (CLI commands) from files Explorer or Command Palette.
+* [Angular Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) - Angular Console for Visual Studio Code. The user interface app for the Angular CLI.
 * [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark) - One Dark Theme based on Atom.
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text.
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired HTML/XML tag.
