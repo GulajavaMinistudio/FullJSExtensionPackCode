@@ -8,6 +8,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail
 
+## [0.8.0] - 2019-06-01
+
+- Disabling Auto Rename Tag and Auto Close Tag, because many showing issue increasing CPU usage when using those extensions.
+- Added Paste JSON as Code Extension.
+- Added ES6 Mocha Snippets Extension.
+- Added Node Readme Extension.
+- Added Git Graph Extension.
+
 ## [0.7.0] - 2019-05-11
 
 - Added extension Angular Console and Angular Schematics.
