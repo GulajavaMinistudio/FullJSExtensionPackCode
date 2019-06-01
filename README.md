@@ -1,6 +1,6 @@
 # Full JavaScript Complete Packs
 
-Visual Studio Code offer great experience in text editor just like IDE. Here some extension in Visual Studio Code that is useful for web development using JavaScript, HTML, and CSS.
+Visual Studio Code offer great experience in text editor just like IDE. Here some extension in Visual Studio Code that is useful for web development using JavaScript, HTML, and CSS. This pack include extensions, git tools, todo list tools, recommended selection of themes and icons, and some utilities. You can select and disable some of them that depend on your needs.
 
 ## Extension Included In This Pack
 
