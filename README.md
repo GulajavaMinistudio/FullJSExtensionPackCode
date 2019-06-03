@@ -22,8 +22,10 @@ Here are some useful extension included in this packs :
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - A customizable extension for colorizing matching brackets.
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - A customizable extension for colorizing matching brackets.
 * [carbon-now-sh](https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh) - A Code package to open the current editor content in carbon.now.sh .
+* [Change Case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word.
 * [Close HTML/XML tag](https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag) - Quickly close last opened HTML/XML tag.
 * [Cobalt2 Theme Official](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2) - Official theme by Wes Bos.
+* [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information about css colors.
 * [CSS Formatter](https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter) - Formatter for CSS.
 * [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
@@ -39,6 +41,7 @@ Here are some useful extension included in this packs :
 * [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 * [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph.
 * [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Pull Request Provider for GitHub.
+* [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.
 * [Hopscotch (Official)](https://marketplace.visualstudio.com/items?itemName=idleberg.hopscotch) - Color scheme inspired by the Hopscotch learning platform for kids.
 * [Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode) - A beautifully warm dark theme for Visual Studio Code.
 * [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) - CSS support for HTML documents.
@@ -77,13 +80,16 @@ Here are some useful extension included in this packs :
 * [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - VS Code plugin for prettier/prettier.
 * [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live Scratchpad for JavaScript.
 * [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native) - Debugging and integrated commands for React Native.
+* [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) - Regex matches previewer for JavaScript, TypeScript, PHP and Haxe in Visual Studio Code.
 * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client for Visual Studio Code.
 * [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules) - Quickly search the node_modules folder.
 * [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
 * [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) - A professional theme suite with hand-picked & bold 🦄 shades of purple for your VS Code editor and terminal apps.
 * [Slack Theme](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme) - Color scheme inspired by Slack's default themes.
+* [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer) - SVG Viewer for Visual Studio Code.
 * [Surround](https://marketplace.visualstudio.com/items?itemName=yatki.vscode-surround) - A simple yet powerful extension to add wrapper templates around your code blocks.
 * [Tomorrow and Tomorrow Night Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-TomorrowKit) - Additional Tomorrow and Tomorrow Night themes for VS Code. Based on the TextMate themes.
+* [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) - Highlight trailing spaces and delete them in a flash.
 * [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code.
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - Highlight TODOs, FIXMEs, and any keywords, annotations.
 * [TODO List](https://marketplace.visualstudio.com/items?itemName=TzachOvadia.todo-list) - List all action comments (TODO, FIXME, HACK etc) in an easy-to-read list.
@@ -92,8 +98,10 @@ Here are some useful extension included in this packs :
 * [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Vue tooling for VS Code.
 * [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons) - A big pack of icons (100+) for your files.
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - Icons for Visual Studio Code.
+* [VSCode-Faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - Generate fake data for name, address, lorem ipsum, commerce and much more.
 * [Vue 2 Snippets](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets) - A Vue.js 2 Extension.
 * [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets) - Snippets that will supercharge your Vue workflow.
+* [Waka Time](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Metrics, insights, and time tracking automatically generated from your programming activity.
 * [YAML](marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support by Red Hat, with built-in Kubernetes and Kedge syntax support.
 
 
