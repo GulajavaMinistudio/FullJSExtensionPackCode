@@ -8,6 +8,18 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail
 
+## [0.8.1]
+
+- Add Highlight Matching Tag Extension.
+- Add Waka Time Extension.
+- Add VSCode-Faker Extension.
+- Add Change Case Extension.
+- Add Trailing Spaces Extension.
+- Add Regex Previewer Extension.
+- Add Color Info Extension.
+- Add SVG Previewer Extension.
+- Sort extension package names in source code.
+
 ## [0.8.0] - 2019-06-01
 
 - Disabling Auto Rename Tag and Auto Close Tag, because many showing issue increasing CPU usage when using those extensions.
