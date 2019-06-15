@@ -19,9 +19,10 @@ Here are some useful extension included in this packs :
 * [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) - A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.
 * [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - Beautify code in place for VS Code.
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more!
-* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - A customizable extension for colorizing matching brackets.
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - A customizable extension for colorizing matching brackets. (Removed for version 2 release)
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - A customizable extension for colorizing matching brackets.
 * [carbon-now-sh](https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh) - A Code package to open the current editor content in carbon.now.sh .
+* [cdnjs](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-cdnjs) - Search and embed libraries from cdnjs.com in Visual Studio Code.
 * [Change Case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word.
 * [Close HTML/XML tag](https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag) - Quickly close last opened HTML/XML tag.
 * [Cobalt2 Theme Official](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2) - Official theme by Wes Bos.
@@ -38,7 +39,7 @@ Here are some useful extension included in this packs :
 * [ES6 Mocha Snippets](https://marketplace.visualstudio.com/items?itemName=spoonscen.es6-mocha-snippets) - Shortcuts to reduce the amount of boiler plate you need to type when creating a test file using mocha.
 * [gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi) - Generating .gitignore files made easy.
 * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits.
-* [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
+* [GitLens Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code .Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 * [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph.
 * [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Pull Request Provider for GitHub.
 * [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.
@@ -49,6 +50,7 @@ Here are some useful extension included in this packs :
 * [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Display import/require package size in the editor.
 * [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - Makes indentation easier to read.
 * [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - CSS class name completion for the HTML class attribute based on the definitions found in your workspace.
+* [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI-assisted development.
 * [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax.
 * [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) - Use Facebook's Jest With Pleasure.
 * [Jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy) - Jumpy provides fast cursor movement, inspired by Atom's package of the same name.
@@ -104,11 +106,8 @@ Here are some useful extension included in this packs :
 * [Waka Time](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Metrics, insights, and time tracking automatically generated from your programming activity.
 * [YAML](marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support by Red Hat, with built-in Kubernetes and Kedge syntax support.
 
-
-
 ## For more information
 
 Extension in this pack will be updated, added, or reduced, if future development for those extensions changed.
-
 
 **Enjoy The Packs!**
