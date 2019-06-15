@@ -6,9 +6,16 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- No detail
+- No detail.
 
-## [0.8.1]
+## [0.9.0] - 2019-06-07
+
+- Add Intellicode Extension.
+- Add CDNJS Extension.
+- Change Bracket Pair Colorizer with version 2.
+
+
+## [0.8.1] - 2019-06-05
 
 - Add Highlight Matching Tag Extension.
 - Add Waka Time Extension.
@@ -42,4 +49,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.5.0] - 2019-04-13
 
-- Initial release
+- Initial release.
