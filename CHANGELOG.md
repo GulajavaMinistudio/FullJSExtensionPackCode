@@ -8,12 +8,17 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail.
 
+## [1.0.0] - 2019-06-17
+
+- Sort Readme File.
+- Remove Atom One Dark Theme, and replace with One Dark Pro.
+- Add Svelte JS Extension.
+
 ## [0.9.0] - 2019-06-07
 
 - Add Intellicode Extension.
 - Add CDNJS Extension.
 - Change Bracket Pair Colorizer with version 2.
-
 
 ## [0.8.1] - 2019-06-05
 
