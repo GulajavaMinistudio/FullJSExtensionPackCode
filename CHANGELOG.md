@@ -8,11 +8,16 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail.
 
-## [1.0.0] - 2019-06-17
+## [1.0.0] - 2019-06-19
 
 - Sort Readme File.
 - Remove Atom One Dark Theme, and replace with One Dark Pro.
 - Add Svelte JS Extension.
+- Change "IntelliSense for CSS class names in HTML" to "IntelliSense for CSS, SCSS class names in HTML, Slim and SCSS" extension".
+- Added Polymer IDE, Polymer v2/v3 Snippets and Polymer Syntax.
+- Added JS Refactor Extension.
+- Added Inline HTML Extension.
+- Added lit-html Extension.
 
 ## [0.9.0] - 2019-06-07
 

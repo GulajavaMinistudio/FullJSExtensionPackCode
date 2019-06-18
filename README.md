@@ -1,6 +1,8 @@
 # Full JavaScript Complete Packs
 
-Visual Studio Code offer great experience in text editor just like IDE. Here some extension in Visual Studio Code that is useful for web development using JavaScript, HTML, and CSS. This pack include extensions, git tools, todo list tools, recommended selection of themes and icons, and some utilities. You can select and disable some of them that depend on your needs.
+Visual Studio Code offer great experience in text editor just like IDE. There are some extension in Visual Studio Code that is useful for web development using JavaScript, HTML, and CSS. This pack include extensions, git tools, todo list tools, recommended selection of themes and icons, and some utilities that useful in web development using JavaScript in front end stack or backend stack with Node JS. You can select or disable some extension in this pack, so it can run as depend on your needs.
+
+---
 
 ## Extension Included In This Pack
 
@@ -44,11 +46,15 @@ Here are some useful extension included in this packs :
 * [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) - Full HTML tags including HTML5 Snippets.
 * [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Display import/require package size in the editor.
 * [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - Makes indentation easier to read.
-* [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - CSS class name completion for the HTML class attribute based on the definitions found in your workspace.
+* [Inline HTML](https://marketplace.visualstudio.com/items?itemName=pushqrdx.inline-html) - IntelliSense, Emmet and Syntax Highlighting for html/css inside ES6 Template Strings.
+* [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - CSS class name completion for the HTML class attribute based on the definitions found in your workspace. (Disabled and changed to new version).
+* [IntelliSense for CSS, SCSS class names in HTML, Slim and SCSS](https://marketplace.visualstudio.com/items?itemName=gencer.html-slim-scss-css-class-completion) - :class and :id completion for HTML, Latte, Slim, ERB, Javascript, CSS and SCSS.
 * [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax.
 * [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) - Use Facebook's Jest With Pleasure.
 * [Jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy) - Jumpy provides fast cursor movement, inspired by Atom's package of the same name.
+* [JS Refactor](https://marketplace.visualstudio.com/items?itemName=cmstead.jsrefactor&ssr=false#overview) - Automated refactoring tools to smooth your development workflow.
 * [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) - Develop, deploy and debug Kubernetes applications.
+* [lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html) - Syntax highlighting and IntelliSense for html inside of JavaScript and TypeScript tagged template strings.
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages.
 * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.
 * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).
@@ -65,6 +71,9 @@ Here are some useful extension included in this packs :
 * [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) - Provides path completion for visual studio code.
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
 * [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - Polaroid for your code.
+* [Polymer IDE](https://marketplace.visualstudio.com/items?itemName=polymer.polymer-ide) - Provides linting, autocompletion, and more for web components.
+* [Polymer Syntax](https://marketplace.visualstudio.com/items?itemName=jonwolfe.language-polymer) - Syntax Highlighting and theming for Polymer components.
+* [Polymer v2/v3 Snippets](https://marketplace.visualstudio.com/items?itemName=justinribeiro.Polymer2Snippets) - Build Polymer 2 and Polymer 3 web components faster with the power of snippets.
 * [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - VS Code plugin for prettier/prettier.
 * [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live Scratchpad for JavaScript.
 * [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native) - Debugging and integrated commands for React Native.
@@ -92,6 +101,9 @@ Here are some useful extension included in this packs :
 * [YAML](marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support by Red Hat, with built-in Kubernetes and Kedge syntax support.
 
 ---
+
+## Theme and Icon Included In This Pack
+
 Here are some recomended theme and icon included in this pack:
 
 * [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) - A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.
