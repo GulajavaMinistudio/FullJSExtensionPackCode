@@ -141,4 +141,6 @@ Extension in this pack will be updated, added, or reduced, if future development
 
 You can review what is changed every release by looking at [Changelog File](https://github.com/GulajavaMinistudio/FullJSExtensionPackCode/blob/master/CHANGELOG.md).
 
+If you failed to install or update this extension pack. Try removing it first by uninstall this extension pack or remove all extension from your VS Code. And then try reinstalling this extension pack again. Don't forget to use reliable internet connection too.
+
 **Enjoy The Packs!**
