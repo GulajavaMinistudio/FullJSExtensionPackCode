@@ -19,6 +19,7 @@ Here are some useful extension included in this packs :
 * [AutoPrefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer) - Parse CSS and add vendor prefixes automatically.
 * [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - Beautify code in place for VS Code.
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more!
+* [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them.
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - A customizable extension for colorizing matching brackets. (Removed for version 2 release)
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - A customizable extension for colorizing matching brackets.
 * [carbon-now-sh](https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh) - A Code package to open the current editor content in carbon.now.sh .
@@ -36,7 +37,9 @@ Here are some useful extension included in this packs :
 * [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax.
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
 * [ES6 Mocha Snippets](https://marketplace.visualstudio.com/items?itemName=spoonscen.es6-mocha-snippets) - Shortcuts to reduce the amount of boiler plate you need to type when creating a test file using mocha.
+* [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
 * [gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi) - Generating .gitignore files made easy.
+* [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - Language support for .gitignore files. Lets you pull .gitignore files from the <https://github.com/github/gitignore> repository.
 * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits.
 * [GitLens Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code .Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 * [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph.
@@ -57,6 +60,7 @@ Here are some useful extension included in this packs :
 * [lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html) - Syntax highlighting and IntelliSense for html inside of JavaScript and TypeScript tagged template strings.
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages.
 * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.
+* [Live Share Audio](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare-audio) - Adds audio calling capabilities to Visual Studio Live Share.
 * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).
 * [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced ported to vscode.
 * [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code.
@@ -77,6 +81,8 @@ Here are some useful extension included in this packs :
 * [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - VS Code plugin for prettier/prettier.
 * [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live Scratchpad for JavaScript.
 * [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native) - Debugging and integrated commands for React Native.
+* [React-Native/React/Redux snippets for ES6/ES7](https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux) - Code snippets for React-Native/React/Redux es6/es7 and flowtype/typescript, Storybook.
+* [React JS code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets) - Code snippets for Reactjs development in ES6 syntax.
 * [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) - Regex matches previewer for JavaScript, TypeScript, PHP and Haxe in Visual Studio Code.
 * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client for Visual Studio Code.
 * [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules) - Quickly search the node_modules folder.
@@ -86,6 +92,7 @@ Here are some useful extension included in this packs :
 * [Svelte Intellisense](https://marketplace.visualstudio.com/items?itemName=ardenivanov.svelte-intellisense) - Provides intellisense for data, events, slots etc. in components.
 * [Svelte 3 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-svelte-snippets) -  Svelte 3 Snippets for VS Code.
 * [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer) - SVG Viewer for Visual Studio Code.
+* [Team Chat: for Slack, Discord, Live Share](https://marketplace.visualstudio.com/items?itemName=karigari.chat) - Send and receive chat messages inside VSCode.
 * [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) - Highlight trailing spaces and delete them in a flash.
 * [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code.
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - Highlight TODOs, FIXMEs, and any keywords, annotations.
@@ -128,6 +135,10 @@ Here are some recomended theme and icon included in this pack:
 
 ## For more information
 
+Waka Time included in this extension pack. If you want to use Waka Time, you need free register in their website, and put API Key that needed in Waka Time Extension. You can read more details at their [developer page](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime).
+
 Extension in this pack will be updated, added, or reduced, if future development for those extensions changed.
+
+You can review what is changed every release by looking at [Changelog File](https://github.com/GulajavaMinistudio/FullJSExtensionPackCode/blob/master/CHANGELOG.md).
 
 **Enjoy The Packs!**
