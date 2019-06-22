@@ -8,6 +8,18 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail.
 
+## [1.0.1] - 2019-06-22
+
+- Add Polymer v2/v3 Snippets.
+- Add Code Bookmarks Extension.
+- Add Team Chat: for Slack, Discord, Live Share Extension.
+- Add Live Share Audio Extension.
+- Add File Utils Extension.
+- Add Gitignore Template Generator Extension.
+- Add Reactjs code snippets Extension.
+- Add React-Native/React/Redux snippets for es6/es7 Extension
+- Fix some readme file.
+
 ## [1.0.0] - 2019-06-19
 
 - Sort Readme File.
