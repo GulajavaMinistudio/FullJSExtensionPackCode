@@ -2,7 +2,7 @@
     "name": "javascript-complete-packs",
     "displayName": "Full JavaScript Complete Pack",
     "description": "All essential extension and theme that useful for web development with JavaScript in front end and back end.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "GulajavaMinistudio",
     "engines": {
         "vscode": "^1.34.0"
@@ -30,6 +30,7 @@
         "aeschli.vscode-css-formatter",
         "abusaidm.html-snippets",
         "ahmadawais.shades-of-purple",
+        "akamud.vscode-javascript-snippet-pack",
         "alefragnani.Bookmarks",
         "ardenivanov.svelte-intellisense",
         "bengreenier.vscode-node-readme",
@@ -84,6 +85,7 @@
         "leizongmin.node-module-intellisense",
         "liviuschera.noctis",
         "metaseed.metago",
+        "mgmcdermott.vscode-language-babel",
         "Mikael.Angular-BeastCode",
         "mikestead.dotenv",
         "mrmlnc.vscode-autoprefixer",
