@@ -8,6 +8,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail.
 
+## [1.0.2] - 2019-06-30
+
+- Add JavaScript Snippet Pack.
+- Add Babel JavaScript Extension.
+
 ## [1.0.1] - 2019-06-22
 
 - Add Polymer v2/v3 Snippets.
