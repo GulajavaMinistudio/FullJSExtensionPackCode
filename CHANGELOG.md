@@ -8,6 +8,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail.
 
+## [1.0.3] - 2019-07-23
+
+- Added Remote-SSH Extension.
+- Added Remote-Containers Extension.
+
 ## [1.0.2] - 2019-06-30
 
 - Add JavaScript Snippet Pack.
