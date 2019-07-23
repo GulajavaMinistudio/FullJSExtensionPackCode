@@ -32,7 +32,7 @@ Here are some useful extension included in this packs :
 * [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
 * [Dependency Analytics](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) - Insights about your application dependencies: Security, License compatibility and AI based guidance to choose appropriate dependencies for your application. (Removed from Pack because some Issues, see Changelog 0.6.1 version).
-* [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
+* [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
 * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
 * [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax.
@@ -86,6 +86,8 @@ Here are some useful extension included in this packs :
 * [React-Native/React/Redux snippets for ES6/ES7](https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux) - Code snippets for React-Native/React/Redux es6/es7 and flowtype/typescript, Storybook.
 * [React JS code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets) - Code snippets for Reactjs development in ES6 syntax.
 * [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) - Regex matches previewer for JavaScript, TypeScript, PHP and Haxe in Visual Studio Code.
+* [Remote Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Open any folder inside (or mounted into) a container and take advantage of Visual Studio Code's full feature set.
+* [Remote SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.
 * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client for Visual Studio Code.
 * [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules) - Quickly search the node_modules folder.
 * [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
