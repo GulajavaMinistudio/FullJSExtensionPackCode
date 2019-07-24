@@ -10,7 +10,7 @@ Here are some useful extension included in this packs :
 
 * [Angular Snippet by Dan Wahlin](https://marketplace.visualstudio.com/items?itemName=danwahlin.angular2-snippets) - VS Code snippets for Angular and TypeScript/HTML.
 * [Angular Snippet by Mikael Morlund](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - 240 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, ngRx, RxJS, PWA & Testing).
-* [Angular Snippet by John Papa](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - Angular v7 snippets by John Papa.
+* [Angular Snippet by John Papa](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - Angular snippets by John Papa.
 * [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - Angular schematics (CLI commands) from files Explorer or Command Palette.
 * [Angular Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) - Angular Console for Visual Studio Code. The user interface app for the Angular CLI.
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text. (Disabled due high CPU issue).
@@ -35,7 +35,7 @@ Here are some useful extension included in this packs :
 * [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
 * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
-* [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax.
+* [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - Simple extensions for React, Redux and GraphQL in JS/TS with ES7 syntax.
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
 * [ES6 Mocha Snippets](https://marketplace.visualstudio.com/items?itemName=spoonscen.es6-mocha-snippets) - Shortcuts to reduce the amount of boiler plate you need to type when creating a test file using mocha.
 * [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
@@ -57,7 +57,7 @@ Here are some useful extension included in this packs :
 * [JavaScript Snippet Pack](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-javascript-snippet-pack) - A snippet pack to make you more productive working with JavaScript.
 * [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) - Use Facebook's Jest With Pleasure.
 * [Jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy) - Jumpy provides fast cursor movement, inspired by Atom's package of the same name.
-* [JS Refactor](https://marketplace.visualstudio.com/items?itemName=cmstead.jsrefactor&ssr=false#overview) - Automated refactoring tools to smooth your development workflow.
+* [JS Refactor](https://marketplace.visualstudio.com/items?itemName=cmstead.jsrefactor) - Automated refactoring tools to smooth your development workflow.
 * [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) - Develop, deploy and debug Kubernetes applications.
 * [lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html) - Syntax highlighting and IntelliSense for html inside of JavaScript and TypeScript tagged template strings.
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages.
@@ -85,7 +85,7 @@ Here are some useful extension included in this packs :
 * [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native) - Debugging and integrated commands for React Native.
 * [React-Native/React/Redux snippets for ES6/ES7](https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux) - Code snippets for React-Native/React/Redux es6/es7 and flowtype/typescript, Storybook.
 * [React JS code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets) - Code snippets for Reactjs development in ES6 syntax.
-* [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) - Regex matches previewer for JavaScript, TypeScript, PHP and Haxe in Visual Studio Code.
+* [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) - Regex matches previewer for JavaScript, TypeScript,  and Haxe in Visual Studio Code.
 * [Remote Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Open any folder inside (or mounted into) a container and take advantage of Visual Studio Code's full feature set.
 * [Remote SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.
 * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client for Visual Studio Code.
