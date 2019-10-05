@@ -8,6 +8,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail.
 
+## [1.0.4] - 2019-10-05
+
+- Add Error Lens Extension.
+- Add Debugger for Firefox Extension.
+
 ## [1.0.3] - 2019-07-23
 
 - Added Remote-SSH Extension.
@@ -82,3 +87,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.5.0] - 2019-04-13
 
 - Initial release.
+- Use Yeoman generator npm install -g yo generator-code
+- Documentation [Extension Pack](https://code.visualstudio.com/api/get-started/your-first-extension)
