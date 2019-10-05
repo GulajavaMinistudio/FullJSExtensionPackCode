@@ -31,10 +31,12 @@ Here are some useful extension included in this packs :
 * [CSS Formatter](https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter) - Formatter for CSS.
 * [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
+* [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug) - Debug your web application or browser extension in Firefox.
 * [Dependency Analytics](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) - Insights about your application dependencies: Security, License compatibility and AI based guidance to choose appropriate dependencies for your application. (Removed from Pack because some Issues, see Changelog 0.6.1 version).
 * [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
 * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
+* [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
 * [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - Simple extensions for React, Redux and GraphQL in JS/TS with ES7 syntax.
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
 * [ES6 Mocha Snippets](https://marketplace.visualstudio.com/items?itemName=spoonscen.es6-mocha-snippets) - Shortcuts to reduce the amount of boiler plate you need to type when creating a test file using mocha.
