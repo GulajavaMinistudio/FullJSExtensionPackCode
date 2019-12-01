@@ -8,6 +8,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail.
 
+## [1.0.5]
+
+- Simplicity theme included in this pack. Now this extension pack only include Material Icon Theme, One Dark Pro Theme, Gruvbox and Gruvbox Material Theme, Palenight Theme, and Shades of Purple.
+- Simplicity icon theme included in this pack with Material Icon Theme, Nomo Dark Icon, VS Code Great Icon, and Simple Icons.
+- Added JavaScript Booster extension.
+- Added CSV to Table extension.
+
 ## [1.0.4] - 2019-10-05
 
 - Add Error Lens Extension.

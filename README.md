@@ -1,6 +1,6 @@
 # Full JavaScript Complete Packs
 
-Visual Studio Code offer great experience in text editor just like IDE. There are some extension in Visual Studio Code that is useful for web development using JavaScript, HTML, and CSS. This pack include extensions, git tools, todo list tools, recommended selection of themes and icons, and some utilities that useful in web development using JavaScript in front end stack or backend stack with Node JS. You can select or disable some extension in this pack, so it can run as depend on your needs.
+Visual Studio Code offer great experience in text editor just like IDE. There are some extension in Visual Studio Code that is useful for web and app development using JavaScript, HTML, and CSS. This pack include extensions, git tools, todo list tools, recommended selection of themes and icons, and some utilities that useful in web development using JavaScript in front end stack or backend stack with Node JS. You can select or disable some extension in this pack, so it can run as depend on your needs.
 
 ---
 
@@ -21,7 +21,6 @@ Here are some useful extension included in this packs :
 * [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - Beautify code in place for VS Code.
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more!
 * [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them.
-* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - A customizable extension for colorizing matching brackets. (Removed for version 2 release)
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - A customizable extension for colorizing matching brackets.
 * [carbon-now-sh](https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh) - A Code package to open the current editor content in carbon.now.sh .
 * [cdnjs](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-cdnjs) - Search and embed libraries from cdnjs.com in Visual Studio Code.
@@ -30,6 +29,7 @@ Here are some useful extension included in this packs :
 * [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information about css colors.
 * [CSS Formatter](https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter) - Formatter for CSS.
 * [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
+* [CSV to Table](https://marketplace.visualstudio.com/items?itemName=phplasma.csv-to-table) - Convert a CSV/TSV/PSV file to an ASCII formatted table.
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
 * [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug) - Debug your web application or browser extension in Firefox.
 * [Dependency Analytics](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) - Insights about your application dependencies: Security, License compatibility and AI based guidance to choose appropriate dependencies for your application. (Removed from Pack because some Issues, see Changelog 0.6.1 version).
@@ -55,6 +55,7 @@ Here are some useful extension included in this packs :
 * [Inline HTML](https://marketplace.visualstudio.com/items?itemName=pushqrdx.inline-html) - IntelliSense, Emmet and Syntax Highlighting for html/css inside ES6 Template Strings.
 * [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - CSS class name completion for the HTML class attribute based on the definitions found in your workspace. (Disabled and changed to new version).
 * [IntelliSense for CSS, SCSS class names in HTML, Slim and SCSS](https://marketplace.visualstudio.com/items?itemName=gencer.html-slim-scss-css-class-completion) - :class and :id completion for HTML, Latte, Slim, ERB, Javascript, CSS and SCSS.
+* [JavaScript Booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster) - Boost your productivity with advanced JavaScript refactorings and commands. This VS Code extension provides various code actions (quick fixes) when editing code in JavaScript (or TypeScript/Flow). Just note the light bulb at the left and press it to learn how you can transform the code under the cursor.
 * [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax.
 * [JavaScript Snippet Pack](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-javascript-snippet-pack) - A snippet pack to make you more productive working with JavaScript.
 * [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) - Use Facebook's Jest With Pleasure.
@@ -117,25 +118,22 @@ Here are some useful extension included in this packs :
 
 ## Theme and Icon Included In This Pack
 
-Here are some recomended theme and icon included in this pack:
+Here are some recomended themes included in this pack:
 
-* [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) - A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.
-* [Cobalt2 Theme Official](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2) - Official theme by Wes Bos.
-* [Hopscotch (Official)](https://marketplace.visualstudio.com/items?itemName=idleberg.hopscotch) - Color scheme inspired by the Hopscotch learning platform for kids.
-* [Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode) - A beautifully warm dark theme for Visual Studio Code.
+* [Cobalt2 Theme Official](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2) - Official theme made by Wes Bos JavaScript Instructor.
+* [Gruvbox Theme](https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox) - A gruvbox theme from Vim including syntax highlighting and workbench & terminal colors.
+* [Gruvbox Theme Material](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material) - This theme is a port of Vim gruvbox-material with Material Palette Colors for Visual Studio Code.
 * [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - The most epic theme now for Visual Studio Code.
-* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code.
-* [Mirage](https://marketplace.visualstudio.com/items?itemName=tristanremy.mirage) - A Mirage blue theme with pastel tones.
-* [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) - A VS Code theme for the night owls out there. Now introducing Light Owl theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle.
-* [Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis) - Noctis is a collection of light & dark themes with a well balanced blend of warm and cold colors.
-* [Nomo Dark Icon Theme](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-icontheme-nomo-dark) - Nomo Dark Icon Theme.
 * [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) - Atom's iconic One Dark theme for Visual Studio Code.
 * [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme) - An elegant and juicy material-like theme for Visual Studio Code.
-* [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) - A professional theme suite with hand-picked & bold 🦄 shades of purple for your VS Code editor and terminal apps.
-* [Slack Theme](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme) - Color scheme inspired by Slack's default themes.
-* [Tomorrow and Tomorrow Night Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-TomorrowKit) - Additional Tomorrow and Tomorrow Night themes for VS Code. Based on the TextMate themes.
+* [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) - A professional theme suite with hand-picked & bold shades of purple for your VS Code editor and terminal apps.
+
+Here some recommended icon theme included in this extension pack :
+
+* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code.
+* [Nomo Dark Icon Theme](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-icontheme-nomo-dark) - Nomo Dark Icon Theme.
+* [Simple Icons](https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-simple-icons) - An icon theme that tries to be simple.
 * [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons) - A big pack of icons (100+) for your files.
-* [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - Icons for Visual Studio Code.
 
 ---
 
