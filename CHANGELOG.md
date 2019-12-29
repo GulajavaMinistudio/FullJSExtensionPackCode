@@ -8,6 +8,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail.
 
+## [1.1.0] - 2019-12-29
+
+- Add CodeSnap Extension to make screenshot for your code.
+- Add Color Highlight Extension.
+
 ## [1.0.5] - 2019-12-02
 
 - Simplicity theme included in this pack. Now this extension pack only include Material Icon Theme, One Dark Pro Theme, Gruvbox and Gruvbox Material Theme, Palenight Theme, and Shades of Purple.

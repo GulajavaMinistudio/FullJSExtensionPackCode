@@ -26,6 +26,8 @@ Here are some useful extension included in this packs :
 * [cdnjs](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-cdnjs) - Search and embed libraries from cdnjs.com in Visual Studio Code.
 * [Change Case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word.
 * [Close HTML/XML tag](https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag) - Quickly close last opened HTML/XML tag.
+* [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Take beautiful screenshots of your code.
+* [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - This extension highlight css/web colors found in your document.
 * [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information about css colors.
 * [CSS Formatter](https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter) - Formatter for CSS.
 * [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
