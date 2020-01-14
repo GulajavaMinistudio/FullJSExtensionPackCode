@@ -2,7 +2,7 @@
     "name": "javascript-complete-packs",
     "displayName": "Full JavaScript Complete Pack",
     "description": "All essential extension and theme that useful for web development with JavaScript in front end and back end.",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "GulajavaMinistudio",
     "engines": {
         "vscode": "^1.40.0"
@@ -68,6 +68,7 @@
         "fivethree.vscode-svelte-snippets",
         "firefox-devtools.vscode-firefox-debug",
         "gencer.html-slim-scss-css-class-completion",
+        "GulajavaMinistudio.mayukaithemevsc",
         "hnw.vscode-auto-open-markdown-preview",
         "hollowtree.vue-snippets",
         "HookyQR.beautify",

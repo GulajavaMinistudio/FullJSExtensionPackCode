@@ -8,6 +8,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail.
 
+## [1.1.1] - 2020-01-15
+
+- Add Mayukai Theme color.
+
 ## [1.1.0] - 2019-12-29
 
 - Add CodeSnap Extension to make screenshot for your code.

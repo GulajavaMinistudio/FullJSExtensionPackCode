@@ -123,9 +123,9 @@ Here are some useful extension included in this packs :
 Here are some recomended themes included in this pack:
 
 * [Cobalt2 Theme Official](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2) - Official theme made by Wes Bos JavaScript Instructor.
-* [Gruvbox Theme](https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox) - A gruvbox theme from Vim including syntax highlighting and workbench & terminal colors.
-* [Gruvbox Theme Material](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material) - This theme is a port of Vim gruvbox-material with Material Palette Colors for Visual Studio Code.
+* [Gruvbox Theme](https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox) and  [Gruvbox Theme Material](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)  - A gruvbox theme from Vim including syntax highlighting and workbench & terminal colors.This theme is a port of Vim gruvbox-material with Material Palette Colors for Visual Studio Code.
 * [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - The most epic theme now for Visual Studio Code.
+* [Mayukai Theme](https://marketplace.visualstudio.com/items?itemName=GulajavaMinistudio.mayukaithemevsc) - Dark theme based on Ayu Theme, Andromeda Theme, Monokai, and some Material Colors.
 * [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) - Atom's iconic One Dark theme for Visual Studio Code.
 * [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme) - An elegant and juicy material-like theme for Visual Studio Code.
 * [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) - A professional theme suite with hand-picked & bold shades of purple for your VS Code editor and terminal apps.
