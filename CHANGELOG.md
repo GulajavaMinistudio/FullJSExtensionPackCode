@@ -8,6 +8,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail.
 
+## [1.2.0] - 2020-02-02
+
+- Slimming down theme icon and syntax theme to use Mayukai Theme by default.
+- Add Gistpad Extension to access your Gist collection in Github and manage your snippet code.
+
 ## [1.1.1] - 2020-01-15
 
 - Add Mayukai Theme color.

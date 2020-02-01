@@ -1,8 +1,8 @@
 {
     "name": "javascript-complete-packs",
     "displayName": "Full JavaScript Complete Pack",
-    "description": "All essential extension and theme that useful for web development with JavaScript in front end and back end.",
-    "version": "1.1.1",
+    "description": "All essential extension and theme that useful for web development with JavaScript and Node JS in front end and back end.",
+    "version": "1.2.0",
     "publisher": "GulajavaMinistudio",
     "engines": {
         "vscode": "^1.40.0"
@@ -30,12 +30,10 @@
         "adpyke.codesnap",
         "aeschli.vscode-css-formatter",
         "abusaidm.html-snippets",
-        "ahmadawais.shades-of-purple",
         "akamud.vscode-javascript-snippet-pack",
         "alefragnani.Bookmarks",
         "ardenivanov.svelte-intellisense",
         "bengreenier.vscode-node-readme",
-        "be5invis.vscode-icontheme-nomo-dark",
         "bierner.color-info",
         "bierner.lit-html",
         "ChakrounAnas.turbo-console-log",
@@ -62,7 +60,6 @@
         "emmanuelbeziat.vscode-great-icons",
         "ericadamski.carbon-now-sh",
         "esbenp.prettier-vscode",
-        "Equinusocio.vsc-material-theme",
         "EQuimper.react-native-react-redux",
         "fabiospampinato.vscode-todo-plus",
         "fivethree.vscode-svelte-snippets",
@@ -77,7 +74,6 @@
         "JakeWilson.vscode-cdnjs",
         "JamesBirtles.svelte-vscode",
         "jasonnutter.search-node-modules",
-        "jdinhlife.gruvbox",
         "johnpapa.Angular2",
         "jonwolfe.language-polymer",
         "justinribeiro.Polymer2Snippets",
@@ -126,17 +122,15 @@
         "vincaslt.highlight-matching-tag",
         "VisualStudioExptTeam.vscodeintellicode",
         "vsmobile.vscode-react-native",
+        "vsls-contrib.gistfs",
         "WakaTime.vscode-wakatime",
         "WallabyJs.quokka-vscode",
         "wayou.vscode-todo-highlight",
-        "wesbos.theme-cobalt2",
-        "whizkydee.material-palenight-theme",
         "wmaurer.change-case",
         "wmaurer.vscode-jumpy",
         "xabikos.JavaScriptSnippets",
         "xabikos.ReactSnippets",
         "yatki.vscode-surround",
-        "yzhang.markdown-all-in-one",
-        "zhuangtongfa.Material-theme"
+        "yzhang.markdown-all-in-one"
     ]
 }
