@@ -44,6 +44,7 @@ Here are some useful extension included in this packs :
 * [ES6 Mocha Snippets](https://marketplace.visualstudio.com/items?itemName=spoonscen.es6-mocha-snippets) - Shortcuts to reduce the amount of boiler plate you need to type when creating a test file using mocha.
 * [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
 * [gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi) - Generating .gitignore files made easy.
+* [Gistpad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists.
 * [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - Language support for .gitignore files. Lets you pull .gitignore files from the <https://github.com/github/gitignore> repository.
 * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits.
 * [GitLens Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code .Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
@@ -120,20 +121,14 @@ Here are some useful extension included in this packs :
 
 ## Theme and Icon Included In This Pack
 
-Here are some recomended themes included in this pack:
+Here some default themes included in this pack:
 
-* [Cobalt2 Theme Official](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2) - Official theme made by Wes Bos JavaScript Instructor.
-* [Gruvbox Theme](https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox) and  [Gruvbox Theme Material](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)  - A gruvbox theme from Vim including syntax highlighting and workbench & terminal colors.This theme is a port of Vim gruvbox-material with Material Palette Colors for Visual Studio Code.
-* [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - The most epic theme now for Visual Studio Code.
 * [Mayukai Theme](https://marketplace.visualstudio.com/items?itemName=GulajavaMinistudio.mayukaithemevsc) - Dark theme based on Ayu Theme, Andromeda Theme, Monokai, and some Material Colors.
-* [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) - Atom's iconic One Dark theme for Visual Studio Code.
-* [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme) - An elegant and juicy material-like theme for Visual Studio Code.
-* [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) - A professional theme suite with hand-picked & bold shades of purple for your VS Code editor and terminal apps.
+* [Gruvbox Theme Material](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)  - A gruvbox theme from Vim including syntax highlighting and workbench & terminal colors.This theme is a port of Vim gruvbox-material with Material Palette Colors for Visual Studio Code.
 
 Here some recommended icon theme included in this extension pack :
 
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code.
-* [Nomo Dark Icon Theme](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-icontheme-nomo-dark) - Nomo Dark Icon Theme.
 * [Simple Icons](https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-simple-icons) - An icon theme that tries to be simple.
 * [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons) - A big pack of icons (100+) for your files.
 
@@ -141,7 +136,7 @@ Here some recommended icon theme included in this extension pack :
 
 ## For more information
 
-Waka Time included in this extension pack. If you want to use Waka Time, you need free register in their website, and put API Key that needed in Waka Time Extension. You can read more details at their [developer page](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime).
+Waka Time Time Tracking is included in this extension pack. If you want to use Waka Time, you need free register in their website, and put API Key that needed in Waka Time Extension. You can read more details at their [developer page](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime).
 
 Extension in this pack will be updated, added, or reduced, if future development for those extensions changed.
 
