@@ -131,6 +131,7 @@
         "xabikos.JavaScriptSnippets",
         "xabikos.ReactSnippets",
         "yatki.vscode-surround",
-        "yzhang.markdown-all-in-one"
+        "yzhang.markdown-all-in-one",
+        "vsls-contrib.codetour"
     ]
 }
