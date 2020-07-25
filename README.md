@@ -124,12 +124,11 @@ Here are some useful extension included in this packs :
 
 ## Theme and Icon Included In This Pack
 
-Here some default themes included in this pack:
+Default themes included in this pack:
 
 - [Mayukai Theme](https://marketplace.visualstudio.com/items?itemName=GulajavaMinistudio.mayukaithemevsc) - Dark theme based on Ayu Theme, Andromeda Theme, Monokai, and some Material Colors.
-- [Gruvbox Theme Material](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material) - A gruvbox theme from Vim including syntax highlighting and workbench & terminal colors.This theme is a port of Vim gruvbox-material with Material Palette Colors for Visual Studio Code.
 
-Here some recommended icon theme included in this extension pack :
+Some recommended icon theme included in this extension pack :
 
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code.
 - [Simple Icons](https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-simple-icons) - An icon theme that tries to be simple.
