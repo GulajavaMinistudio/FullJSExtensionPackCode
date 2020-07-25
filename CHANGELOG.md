@@ -8,6 +8,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail.
 
+## [1.3.0] - 2020-07-25
+
+- Add CodeTour extension, VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor. Important for making guidelines, docs, and online tutorials snippets.
+- Slimming down some extension, now we're not including WakaTime, and some Polymer Extensions.
+- Update some Svelte extension.
+- Add ES6 String template literal for HTML and SQL syntax coloring `es6-string-html` by Tobermory.
+- Add Node JS Snippet Extension.
+
 ## [1.2.0] - 2020-02-02
 
 - Slimming down theme icon and syntax theme to use Mayukai Theme by default.
