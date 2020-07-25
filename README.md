@@ -124,7 +124,7 @@ Here are some useful extension included in this packs :
 
 ## Theme and Icon Included In This Pack
 
-Default themes included in this pack:
+Default themes included in this pack :
 
 - [Mayukai Theme](https://marketplace.visualstudio.com/items?itemName=GulajavaMinistudio.mayukaithemevsc) - Dark theme based on Ayu Theme, Andromeda Theme, Monokai, and some Material Colors.
 
