@@ -2,7 +2,7 @@
     "name": "javascript-complete-packs",
     "displayName": "Full JavaScript Complete Pack",
     "description": "All essential extension and theme that useful for web development with JavaScript and Node JS in front end and back end.",
-    "version": "1.3.0",
+    "version": "1.3.1",
     "publisher": "GulajavaMinistudio",
     "engines": {
         "vscode": "^1.46.0"
@@ -80,7 +80,6 @@
         "LaurentTreguier.vscode-simple-icons",
         "leizongmin.node-module-intellisense",
         "metaseed.metago",
-        "mgmcdermott.vscode-language-babel",
         "Mikael.Angular-BeastCode",
         "mikestead.dotenv",
         "mrmlnc.vscode-autoprefixer",
