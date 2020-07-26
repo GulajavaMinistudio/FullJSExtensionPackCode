@@ -17,7 +17,7 @@ Here are some useful extension included in this packs :
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired HTML/XML tag. (Disabled due high CPU issue).
 - [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview) - Open Markdown preview automatically when opening a Markdown file.
 - [AutoPrefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer) - Parse CSS and add vendor prefixes automatically.
-- [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) - VSCode syntax highlighting for today's JavaScript, ported from gandm's language-babel for Atom.
+- [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) - VSCode syntax highlighting for today's JavaScript, ported from gandm's language-babel for Atom. Not installed by default, due syntax coloring issue in some VS Code themes.
 - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - Beautify code in place for VS Code.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more!
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them.
