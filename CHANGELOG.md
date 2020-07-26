@@ -8,7 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail.
 
-## [1.3.1] - 2020-07-25
+## [1.3.1] - 2020-07-26
 
 - Add CodeTour extension, VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor. Important for making guidelines, docs, and online tutorials snippets.
 - Slimming down some extension, now we're not including WakaTime, and some Polymer Extensions.
